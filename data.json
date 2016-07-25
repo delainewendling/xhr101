@@ -1,19 +1,19 @@
 {
-  "fruit": [
+    "fruits": [
     {
-      "name": "apple",
+      "name": "Apple",
       "quantity": 50
     },
     {
-      "name": "tomato",
+      "name": "Tomato",
       "quantity": 30
     },
     {
-      "name": "banana",
+      "name": "Banana",
       "quantity": 75
     },
      {
-      "name": "avocado",
+      "name": "Avocado",
       "quantity": 38
     }
   ]
